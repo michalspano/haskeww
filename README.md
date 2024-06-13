@@ -13,11 +13,13 @@ rethink that.
 
 ## Featured Projects
 
-Below, you will find an unordered list of links to various interesting `Haskell`
-projects. 
+Below, you will find an alphabetically sorted list of links to various
+interesting `Haskell` projects. 
 
 ### Projects
 
+- [agda](https://github.com/agda/agda) - Agda is a dependently typed
+  programming language / interactive theorem prover. 
 - [xmonad](https://github.com/xmonad/xmonad) - A dynamically tiling X11 window
   manager that is written and configured in Haskell.
 - TODO
