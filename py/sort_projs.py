@@ -14,7 +14,7 @@ if __name__ == "__main__":
                 for proj in projects:
                     # Write each line in the desired Markdown format (i.e. Embedded
                     # link with a description).
-                    line = f"[{proj['name']}]({proj['link']}) - {proj['desc']}\n"
+                    line = f"- [{proj['name']}]({proj['link']}) - {proj['desc']}\n"
                     readme.write(line)
 
     except KeyboardInterrupt:

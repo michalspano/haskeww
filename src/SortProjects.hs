@@ -29,7 +29,7 @@ writeProjectsToReadme filePath projects = do
 --   [{NAME}]({LINK}) - {DESCRIPTION}.
 -- ```
 formatMDLink :: Project -> String
-formatMDLink (Project n l d) = "[" ++ n ++ "]" ++ "(" ++ l ++ ")" ++ " - " ++ d
+formatMDLink (Project n l d) = "- [" ++ n ++ "]" ++ "(" ++ l ++ ")" ++ " - " ++ d
 
 -- | Main entry of the module
 sortProjs :: IO ()
