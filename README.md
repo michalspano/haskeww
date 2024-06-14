@@ -18,6 +18,7 @@ interesting `Haskell` projects.
 
 ### Projects
 [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
+[pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 [xmonad](https://github.com/xmonad/xmonad) - A dynamically tiling X11 window manager that is written and configured in Haskell.
 
 ## Contributing
