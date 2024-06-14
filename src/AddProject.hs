@@ -12,8 +12,8 @@ Authors     : Michal Spano
 module AddProject (appendProj) where
 
 import Haskeww
-import Data.Aeson (encode)
 import System.IO (hFlush, stdout)
+import Data.Aeson (encode, object, (.=))
 import qualified Data.ByteString.Lazy as B
 
 -- | Prompt the user with a message, read a line from @stdin@.
@@ -23,10 +23,13 @@ prompt msg = do
   hFlush stdout
   getLine
 
--- | Function to write the projects to a JSON file
+-- | Function to write the projects to a JSON file. It wraps the projects into
+-- a JSON object with a key @projects@.
 toJSONProjects :: FilePath -> [Project] -> IO ()
 toJSONProjects filePath projects = do
-    B.writeFile filePath (encode projects)
+  B.writeFile filePath json
+    where
+      json = encode $ object ["projects" .= projects]
 
 -- | The main entry of the module
 appendProj :: IO ()
