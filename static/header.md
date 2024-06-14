@@ -1,6 +1,6 @@
-# Haskeww
+# HaskeWW
 
-Welcome to **Haskeww**! This repository is dedicated to showcasing the power of
+Welcome to **HaskeWW**! This repository is dedicated to showcasing the power of
 `Haskell`, a language often dismissed as purely academic or a toy for
 researchers. Here, we aim to dispel that myth by demonstrating real-world,
 practical software projects written in `Haskell`.
