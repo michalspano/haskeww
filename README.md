@@ -19,6 +19,7 @@ interesting `Haskell` projects.
 ### Projects
 - [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [elm](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
+- [ihp](https://github.com/digitallyinduced/ihp) - The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager.
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [xmonad](https://github.com/xmonad/xmonad) - A dynamically tiling X11 window manager that is written and configured in Haskell.

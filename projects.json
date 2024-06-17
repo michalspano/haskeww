@@ -24,6 +24,11 @@
       "name": "kmonad",
       "link": "https://github.com/kmonad/kmonad",
       "desc": "An advanced keyboard manager."
+    },
+    {
+      "name": "ihp",
+      "link": "https://github.com/digitallyinduced/ihp",
+      "desc": "The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness"
     }
   ]
 }
