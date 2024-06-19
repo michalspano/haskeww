@@ -17,12 +17,13 @@ Below, you will find an alphabetically sorted list of links to various
 interesting `Haskell` projects. 
 
 ### Projects
-- [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [elm](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [ihp](https://github.com/digitallyinduced/ihp) - The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager.
+- [odin](https://github.com/odin-lang/Odin) - The Data-Oriented Language for Sane Software Development
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+- [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [xmonad](https://github.com/xmonad/xmonad) - A dynamically tiling X11 window manager that is written and configured in Haskell.
 
 ## Contributing
