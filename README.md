@@ -25,6 +25,7 @@ interesting `Haskell` projects.
 - [odin](https://github.com/odin-lang/Odin) - The Data-Oriented Language for Sane Software Development
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
+- [taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
 - [xmonad](https://github.com/xmonad/xmonad) - A dynamically tiling X11 window manager that is written and configured in Haskell.
 
 ## Contributing
