@@ -20,6 +20,7 @@ interesting `Haskell` projects.
 - [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [elm](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
+- [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [ihp](https://github.com/digitallyinduced/ihp) - The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager.
 - [odin](https://github.com/odin-lang/Odin) - The Data-Oriented Language for Sane Software Development
