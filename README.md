@@ -27,6 +27,7 @@ interesting `Haskell` projects.
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages (GitHub)
+- [simplex](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps!
 - [taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
 - [xmonad](https://github.com/xmonad/xmonad) - A dynamically tiling X11 window manager that is written and configured in Haskell.
 
