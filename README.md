@@ -18,6 +18,7 @@ interesting `Haskell` projects.
 
 ### Projects
 - [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
+- [alex](https://github.com/haskell/alex) - A lexical analyser generator for Haskell.
 - [elm](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
 - [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
