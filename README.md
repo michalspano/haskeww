@@ -23,6 +23,7 @@ interesting `Haskell` projects.
 - [emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
 - [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
+- [hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [ihp](https://github.com/digitallyinduced/ihp) - The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager.
 - [odin](https://github.com/odin-lang/Odin) - The Data-Oriented Language for Sane Software Development
