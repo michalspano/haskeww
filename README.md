@@ -26,6 +26,7 @@ interesting `Haskell` projects.
 - [hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [ihp](https://github.com/digitallyinduced/ihp) - The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager.
+- [koka](https://github.com/koka-lang/koka) - A Functional Language with Effect Types and Handlers
 - [odin](https://github.com/odin-lang/Odin) - The Data-Oriented Language for Sane Software Development
 - [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [postgrest](https://github.com/PostgREST/postgrest) - REST API for any Postgres database
