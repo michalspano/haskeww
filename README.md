@@ -19,7 +19,7 @@ interesting `Haskell` projects.
 ### Projects
 - [agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [alex](https://github.com/haskell/alex) - A lexical analyser generator for Haskell.
-- [duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings. 
+- [duckling](https://github.com/facebook/duckling) - Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [elm](https://github.com/elm/compiler) - Compiler for Elm, a functional language for reliable webapps.
 - [emanote](https://github.com/srid/emanote) - Emanate a structured view of your plain-text notes
 - [ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
@@ -35,6 +35,7 @@ interesting `Haskell` projects.
 - [simplex](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps!
 - [taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
 - [unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
+- [xmobar](https://codeberg.org/xmobar/xmobar) - A minimalist status bar
 - [xmonad](https://github.com/xmonad/xmonad) - A dynamically tiling X11 window manager that is written and configured in Haskell.
 
 ## Contributing
