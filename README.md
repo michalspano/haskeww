@@ -34,6 +34,7 @@ interesting `Haskell` projects.
 - [semantic](https://github.com/github/semantic) - Parsing, analyzing, and comparing source code across many languages (GitHub)
 - [simplex](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps!
 - [taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
+- [taffybar](https://github.com/taffybar/taffybar) - A gtk based status bar for tiling window managers such as XMonad
 - [unison](https://github.com/unisonweb/unison) - A friendly programming language from the future
 - [xmobar](https://codeberg.org/xmobar/xmobar) - A minimalist status bar
 - [xmonad](https://github.com/xmonad/xmonad) - A dynamically tiling X11 window manager that is written and configured in Haskell.
