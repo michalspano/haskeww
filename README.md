@@ -26,6 +26,7 @@ interesting `Haskell` projects.
 - [ghcjs](https://github.com/ghcjs/ghcjs) - Haskell to JavaScript compiler, based on GHC
 - [hakyll](https://github.com/jaspervdj/hakyll) - A static website compiler library in Haskell
 - [hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
+- [ihaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
 - [ihp](https://github.com/digitallyinduced/ihp) - The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 - [kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager.
 - [koka](https://github.com/koka-lang/koka) - A Functional Language with Effect Types and Handlers
